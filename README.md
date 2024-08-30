@@ -7,7 +7,7 @@
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt
 
 **博客地址：
-[https://blog.csdn.net/2303_76227485/article/details/140947161](https://blog.csdn.net/2303_76227485/article/details/140947161)**
+[https://blog.csdn.net/2303_76227485/article/details/141399535](https://blog.csdn.net/2303_76227485/article/details/141399535)**
 
 **视频演示：
 [https://www.bilibili.com/video/BV1G3W3eBEVJ/](https://www.bilibili.com/video/BV1G3W3eBEVJ/)**
@@ -15,7 +15,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot+vue3的景区旅游门票管理系统(源代码+数据库)163
+## 基于Java+Springboot+vue3的景区旅游门票管理系统(源代码+数据库+开题+ppt+2万字论文)163
 
 ## 一、系统介绍
 本项目前后端分离(可以改为ssm版本)，分为用户、管理员两种角色
